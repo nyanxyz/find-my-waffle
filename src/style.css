@@ -1,0 +1,18 @@
+:root {
+  --white: #ffffff;
+  --gray-background: #c0c0c0;
+  --dark-gray-background: #aaaaaa;
+  --gray-border: #878787;
+  --blue-background: #44619b;
+
+  font-size: 14px;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+button {
+  cursor: pointer;
+}
